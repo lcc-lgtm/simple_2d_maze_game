@@ -19,9 +19,9 @@ A retro 2D maze game built with x86 Assembly language using `INT 21H` and basic 
 * **ESC**: Return to menu or exit.
 
 ## Screenshots
-* <img width="670" height="391" alt="image" src="https://github.com/user-attachments/assets/d575d07c-3328-4b0b-8c8a-6e4b986b8183" />
-* <img width="670" height="482" alt="image" src="https://github.com/user-attachments/assets/b61d8354-a44a-4ac8-9b9d-42b3dd8b158f" />
-* <img width="670" height="385" alt="image" src="https://github.com/user-attachments/assets/bef0e244-4c70-44df-a3a7-29d1d383c4d4" />
+* <img width="670" height="430" alt="image" src="https://github.com/user-attachments/assets/d575d07c-3328-4b0b-8c8a-6e4b986b8183" />
+* <img width="670" height="430" alt="image" src="https://github.com/user-attachments/assets/b61d8354-a44a-4ac8-9b9d-42b3dd8b158f" />
+* <img width="670" height="430" alt="image" src="https://github.com/user-attachments/assets/bef0e244-4c70-44df-a3a7-29d1d383c4d4" />
 
 ## How to Run
 1. Open your Assembly environment (such as DOSBox and MASM/TASM).
